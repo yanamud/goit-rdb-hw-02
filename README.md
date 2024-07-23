@@ -25,8 +25,11 @@
 
 
 4. Розробіть ER-діаграму отриманих таблиць.
+   
+![image](https://github.com/user-attachments/assets/63f592c9-187e-4657-9280-893e4393bde6)
 
    
 5. Використовуючи ER-діаграму, створіть таблиці в базі даних.
 
- 
+ ![image](https://github.com/user-attachments/assets/46b8df9a-21c1-4d28-8dee-eb7849079096)
+
