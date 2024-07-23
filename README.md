@@ -9,23 +9,24 @@
 
 1. Переведіть початкову таблицю в першу нормальну форму.
 
-   ![image](https://github.com/user-attachments/assets/e3a5f5b0-25c7-4fd6-8091-5da1c7df5bc8)
+ ![image](https://github.com/user-attachments/assets/61b57a62-5a1b-46c4-aa72-4ab7cf07cc43)
+
 
 
 2. Переведіть нові таблиці в другу нормальну форму.
 
-   ![image](https://github.com/user-attachments/assets/bc2a142a-210f-4139-980c-8e6d30f8bfd8)
+  ![image](https://github.com/user-attachments/assets/35ef2715-f5bc-47b5-be68-6b54ecbb7b45)
+
 
 
 3. Переведіть нові таблиці в третю нормальну форму.
 
-   ![image](https://github.com/user-attachments/assets/01f94775-6aa9-40ea-a735-075e6f199f8e)
+![image](https://github.com/user-attachments/assets/a97a923e-ae9b-439d-bbaf-1a75c1568fc5)
 
 
 4. Розробіть ER-діаграму отриманих таблиць.
-![image](https://github.com/user-attachments/assets/1cc8095b-4c7a-4f4e-961d-eec653be727d)
 
    
 5. Використовуючи ER-діаграму, створіть таблиці в базі даних.
 
-   ![image](https://github.com/user-attachments/assets/d8e86f0c-4192-4ed5-b91b-2d787189f62d)
+ 
